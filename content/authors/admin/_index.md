@@ -50,7 +50,7 @@ education:
   - area: PhD Information Science
     institution: Cornell University
     date_start: 2024
-    date_end: 2029 (Expected)
+    date_end: 2029
     summary: |
       Advised by [Professor Angelique Taylor](https://www.angeliquemtaylor.com/)
     button:
