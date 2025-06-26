@@ -19,6 +19,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+avatar: avatar.JPG
 # Role/position/tagline
 role: PhD Student
 
