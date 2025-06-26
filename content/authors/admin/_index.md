@@ -45,6 +45,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Mental Health Technology
+  - Human-AI Interaction
 
 education:
   - area: PhD Information Science
@@ -53,9 +54,9 @@ education:
     date_end: 2029-06-01
     summary: |
       Advised by [Professor Angelique Taylor](https://www.angeliquemtaylor.com/)
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: BSc Computer Science
     institution: University of Florida
     date_start: 2020-08-01
