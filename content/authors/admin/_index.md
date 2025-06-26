@@ -49,8 +49,8 @@ interests:
 education:
   - area: PhD Information Science
     institution: Cornell University
-    date_start: 2024
-    date_end: 2029
+    date_start: 2024-08
+    date_end: 2029-06
     summary: |
       Advised by [Professor Angelique Taylor](https://www.angeliquemtaylor.com/)
     button:
@@ -58,8 +58,8 @@ education:
       url: 'https://example.com'
   - area: BSc Computer Science
     institution: University of Florida
-    date_start: 2020
-    date_end: 2024
+    date_start: 2020-08
+    date_end: 2024-05
     summary: |
       GPA: 3.7/4.0
 # work:
