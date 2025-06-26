@@ -155,7 +155,7 @@ languages:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-# ---
+---
 
 ## About Me
 Hello! My name is Ann-Kareen and I’m currently a first year Information Science PhD student at Cornell University. I’m currently based at Cornell Tech in New York City. I’m currently advised by Dr. Angelique Taylor at the Artificial Intelligence and Robotics Lab AIRLab.
