@@ -43,9 +43,10 @@ profiles:
     url: https://orcid.org/0009-0006-3026-6717
 
 interests:
-  - Artificial Intelligence
-  - Mental Health Technology
   - Human-AI Interaction
+  - Mental Health Techology
+  - AI Ethics
+  - LLM Evaluation
 
 education:
   - area: PhD Information Science
