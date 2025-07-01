@@ -1,3 +1,8 @@
 .force-white-text * {
   color: black !important;
 }
+
+.custom-button {
+  background-color: white !important;
+  color: black !important
+}
