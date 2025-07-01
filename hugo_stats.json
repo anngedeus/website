@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "--",
+      "?xml",
       "a",
       "article",
       "aside",
@@ -42,6 +43,7 @@
       "polygon",
       "pre",
       "rb",
+      "rect",
       "rt",
       "ruby",
       "script",
@@ -466,6 +468,8 @@
       "space-y-1",
       "space-y-3",
       "spoiler",
+      "st0",
+      "st1",
       "sticky",
       "table-auto",
       "text-1xl",
@@ -537,6 +541,7 @@
     ],
     "ids": [
       "-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor",
+      "Layer_1",
       "TableOfContents",
       "about-me",
       "callouts",
