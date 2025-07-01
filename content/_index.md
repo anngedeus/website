@@ -18,7 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-        css_class: custom-button
+        style_css: custom-button
     design:
       css_class: dark force-white-text
       background:

@@ -1,8 +1,8 @@
-.force-white-text * {
+.force-white-text *:not(a):not(.custom-button) {
   color: black !important;
 }
 
-.custom-button {
+a.custom-button {
   background-color: white !important;
-  color: black !important
+  color: black !important;
 }
