@@ -1,9 +1,19 @@
 .force-white-text *:not(a):not(.custom-button) {
-  color: white !important;
+  color: black !important;
 }
 
 a.custom-button {
+  all: unset; /* Reset inherited styles */
   background-color: white !important;
   color: black !important;
+  border: 2px solid black !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: 0.5rem !important;
+  font-weight: 600 !important;
+  display: inline-block !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  cursor: pointer;
 }
+
 
