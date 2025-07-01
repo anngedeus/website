@@ -16,4 +16,8 @@ a.custom-button {
   cursor: pointer;
 }
 
+.award .icon {
+  width: 10rem !important;
+  height: auto !important;
+}
 
